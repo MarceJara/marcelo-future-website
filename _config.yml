@@ -1,10 +1,10 @@
-title: FutureBot - A SumoBot for STEM
+title: Marcelo Future
 email: marcelo.jara@pucp.edu.pe
 description: >- # this means to ignore newlines until "baseurl:"
-  FutureBot is a STEM project to learn and have fun. There is no 
-  minimum age, so whether you are 10 or 20 years old, you can 
-  get to work and create your robot. Finally, don't forget that 
-  "The best way to predict the future is to make it."  
+  Fourth-year engineer student, future computer scientist. 
+  My passion for building through code brought me to the faculty 
+  of computer engineering at the Pontificia Universidad Catolica del 
+  Peru. 
 #baseurl: "FutureBot-MiniSumoBot" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MarceloFuture
