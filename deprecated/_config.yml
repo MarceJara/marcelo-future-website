@@ -1,23 +1,19 @@
-title: FutureBot - A SumoBot for STEM
+title: Marcelo Future
 email: marcelo.jara@pucp.edu.pe
 description: >- # this means to ignore newlines until "baseurl:"
-  FutureBot is a STEM project to learn and have fun. There is no 
-  minimum age, so whether you are 10 or 20 years old, you can 
-  get to work and create your robot. Finally, don't forget that 
-  "The best way to predict the future is to make it."  
-#baseurl: "FutureBot-MiniSumoBot" # the subpath of your site, e.g. /blog
+  Fourth-year engineer student, future computer scientist. 
+  My passion for building through code brought me to the faculty 
+  of computer engineering at the Pontificia Universidad Catolica del 
+  Peru. 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MarceloFuture
 github_username:  MarceJara
 
-# TODO: CREATE BRANCH FOR LOCALHOST VIEWING
 # Build settings
-#theme: minima
-#theme: jekyll-theme-basically-basic
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+theme: minima
 plugins:
   - jekyll-feed
- # - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
